@@ -7,3 +7,8 @@ yellow_tripdata_2020-01.csv
 terraform.tfstate
 terraform.tfstate.backup
 variable.tf
+# Default .gitignore content added by dbt Cloud
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
